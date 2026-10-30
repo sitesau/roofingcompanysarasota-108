@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+
+Sitemap: https://vercel-cloudsites-hub.vercel.app/sites-01/roof-repair-sarasota-council-and-approvals-d86799f4a48ebdb45/sitemap.xml

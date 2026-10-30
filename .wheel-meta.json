@@ -1,0 +1,22 @@
+{
+  "wheel_id": 551,
+  "structure": "umbrella",
+  "slug": "roofingcompanysarasota-108",
+  "project": "roof-repair-sarasota-council-and-approvals-d86799f4a48ebdb45",
+  "parent_t1_ref": "roofingcompanysarasota-153",
+  "node_role": "feeder",
+  "money_target": "roofingcompanysarasota.net",
+  "primary_kw": "roof repair sarasota council and approvals",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/roof-repair-sarasota-council-and-approvals-d86799f4a48ebdb45/",
+  "tier": "T2",
+  "writeback_nonce": "022ec5eccafe9686",
+  "links": [
+    {
+      "target_url": "http://roof-repair-sarasota-before-you-start-7646199ba59cd9404d3a85fa4.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "a guide to roof repair sarasota before you start",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
